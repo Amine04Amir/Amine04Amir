@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cardano_class" target="blank"><img src="https://img.shields.io/twitter/follow/cardano_class?logo=twitter&style=for-the-badge" alt="cardano_class" /></a> </p>
 
-- 🔭 I’m currently working on **Minitalk**
+- 🔭 I’m currently working on **So_long**
 
 - 🌱 I’m currently learning ****C****
 
