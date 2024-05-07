@@ -1,7 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Mohamed Amine Amir</h1>
 <h3 align="center">A passionate learner diving into the world of programming. Currently on a journey to master C programming and explore its endless possibilities. Excited to collaborate, learn, and grow with the vibrant coding community!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amine04amir&label=Profile%20views&color=0e75b6&style=flat" alt="amine04amir" /> </p>
+<a align="left" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Amine04Amir&label=Profile%20Views&color=9&icon=5&pretty=true" />
+</a>
 
 <p align="left"> <a href="https://twitter.com/cardano_class" target="blank"><img src="https://img.shields.io/twitter/follow/cardano_class?logo=twitter&style=for-the-badge" alt="cardano_class" /></a> </p>
 
