@@ -29,5 +29,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Github Status:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine04amir&show_icons=true&theme=dark&locale=en&layout=compact" alt="amine04amir" /></p>
+## Github Stats 📈 :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine04amir&show_icons=true&theme=dark&locale=en&layout=compact" alt="amine04amir" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine04Amir&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="github stats"/></p>
