@@ -13,22 +13,22 @@
 
 - ⚡ Fun fact **A simple fun fact about the C programming language is that its name, "C," was chosen because it came after the B programming language. Dennis Ritchie, one of the creators of C, named it simply by moving one letter up in the alphabet from B.**
 
-## Connect with me:
-
-<p align="center">
-<a href="https://twitter.com/cardano_class" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardano_class" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamedamineamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedamineamir" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed.a.amir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed.a.amir/" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cardano_class) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amine Amir ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed.a.amir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedamineamir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class) 
 
 ## 42_Cursus:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mamir" alt="mamir's 42 stats" /></a>
 
-## Languages and Tools:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Github Stats 📈 :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine04amir&show_icons=true&theme=dark&locale=en&layout=compact" alt="amine04amir" /></p>
-<p><img align="right" src="![Amine04Amir's Stats](https://github-readme-stats.vercel.app/api?username=Amine04Amir&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false" alt="github stats"/></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amine04Amir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amine04Amir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amine04Amir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amine04Amir&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
