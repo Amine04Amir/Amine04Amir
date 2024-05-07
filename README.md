@@ -14,7 +14,7 @@
 - ⚡ Fun fact **A simple fun fact about the C programming language is that its name, "C," was chosen because it came after the B programming language. Dennis Ritchie, one of the creators of C, named it simply by moving one letter up in the alphabet from B.**
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cardano_class) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100033585816499 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed.a.amir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedamineamir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/376428718253539328) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100033585816499 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed.a.amir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedamineamir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cardano_class) 
 
 ## 42_Cursus:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mamir" alt="mamir's 42 stats" /></a>
