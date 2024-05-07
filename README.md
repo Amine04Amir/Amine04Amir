@@ -31,4 +31,4 @@
 
 ## Github Stats 📈 :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine04amir&show_icons=true&theme=dark&locale=en&layout=compact" alt="amine04amir" /></p>
-<p><img align="right" src="![Amine04Amir's Stats](https://github-readme-stats.vercel.app/api?username=Amine04Amir&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false)" alt="github stats"/></p>
+<p><img align="right" src="![Amine04Amir's Stats](https://github-readme-stats.vercel.app/api?username=Amine04Amir&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false" alt="github stats"/></p>
