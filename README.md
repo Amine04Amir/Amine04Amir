@@ -5,7 +5,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Amine04Amir&label=Profile%20Views&color=9&icon=5&pretty=true" />
 </a>
 
-<p align="left"> <a href="https://twitter.com/cardano_class" target="blank"><img src="https://img.shields.io/twitter/follow/cardano_class?logo=twitter&style=for-the-badge" alt="cardano_class" /></a> </p>
+## Notes:
 
 - 🔭 I’m currently working on **Push Swap**
 
