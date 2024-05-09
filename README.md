@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Mohamed Amine Amir</h1>
 <h3 align="center">A passionate learner diving into the world of programming. Currently on a journey to master C programming and explore its endless possibilities. Excited to collaborate, learn, and grow with the vibrant coding community!</h3>
 
-![](https://komarev.com/ghpvc/?username=Amine04Amir)
+👀 ![](https://komarev.com/ghpvc/?username=Amine04Amir)
 
 ## 📍 Notes:
 
