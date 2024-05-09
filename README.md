@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Mohamed Amine Amir</h1>
 <h3 align="center">A passionate learner diving into the world of programming. Currently on a journey to master C programming and explore its endless possibilities. Excited to collaborate, learn, and grow with the vibrant coding community!</h3>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Amine04Amir&label=Profile%20Views&color=12&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Amine04Amir&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 ## 📍 Notes:
 
