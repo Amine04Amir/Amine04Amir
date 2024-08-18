@@ -5,7 +5,7 @@
 
 ## 📍 Notes:
 
-- 🔭 I’m currently working on **Push Swap**
+- 🔭 I’m currently working on **Philosophers**
 
 - 🌱 I’m currently learning ****C****
 
